@@ -17,7 +17,6 @@ export default {
     }
 }
 </script>
-
 <style>
 .main-content{
   padding: 105px 25px 0 25px;
