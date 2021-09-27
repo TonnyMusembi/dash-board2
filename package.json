@@ -15,7 +15,6 @@
         "vue-cookies": "^1.7.4",
         "vue-table": "^0.2.2",
         "vuex": "^3.6.2"
-
     },
     "devDependencies": {
         "@vue/cli-plugin-babel": "~4.5.0",
