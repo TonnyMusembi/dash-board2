@@ -6,11 +6,11 @@ import VueCookies from 'vue-cookies'
 
 import './assets/style.css';
 
-
+import { ButtonGroupPlugin } from 'bootstrap-vue'
 
 
 Vue.config.productionTip = false
-
+Vue.use(ButtonGroupPlugin)
 Vue.use(VueCookies)
 new Vue({
     router,
